@@ -1,0 +1,25 @@
+.card{
+    background-image: repeating-linear-gradient(rgb(68, 163, 192), rgb(190, 190, 93) 10%, rgb(21, 124, 119) 100%)
+}   
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    
+}
+
+.card-item{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items:center;
+    background-color:coral;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    padding: 2%;
+    margin: 4%;
+    font-size:x-large;
+    
+}
+
